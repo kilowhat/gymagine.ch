@@ -1,0 +1,7 @@
+# Site settings
+title: Gym'agine
+description: Le mouvement pour votre santé
+url: "http://gymagine.ch"
+
+# Build settings
+markdown: kramdown

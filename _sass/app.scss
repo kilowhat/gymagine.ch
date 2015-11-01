@@ -1,0 +1,301 @@
+/**
+ * Style Gym'agine
+ */
+
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	height: 100%;
+	color: #333;
+	background-color: #e5e3df;
+}
+
+body {
+	background-position: center top;
+	background-size: cover;
+}
+
+.background {
+	position: fixed;
+	z-index: -5;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.background .HTMLBlock {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.background .ccm-area .ccm-block-edit {
+	min-height: 200px; /* Pour être visible sous la barre de menu même si vide */
+}
+
+.background img {
+	width: 10px;
+	height: auto;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.container {
+	min-height: 100%;
+	position: relative;
+	z-index: 10;
+	pointer-events: none;
+}
+
+.container > * > * {
+	pointer-events: auto;
+}
+
+.header {
+	width: 1200px;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 0 0.5em;
+	padding-top: 10px;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.menu {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 20px;
+	overflow: auto;
+}
+
+.menu  li {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 0.2em;
+}
+
+
+.menu a {
+	display: block;
+	background: #628e00;
+	padding: 1em 1em;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background: #555;
+}
+
+@media (min-width: 1200px) {
+
+.menu {
+	min-width: 780px;
+	text-align: center;
+}
+
+.menu li:nth-child(2) {
+	margin-top: 2em;
+}
+
+.menu li:nth-child(3) {
+	margin-top: 0.5em;
+}
+
+.menu li:nth-child(5) {
+	margin-top: 1.5em;
+}
+
+.menu a {
+	border-radius: 48%;
+	font-size: 1.3em;
+	max-width: 10em;
+}
+
+}
+
+@media (max-width: 1199px) {
+
+.header {
+	text-align: center;
+}
+
+.logo img {
+	width: auto;
+	height: auto;
+	max-height: 6em;
+}
+
+.menu  li {
+	margin-bottom: 0.5em;
+}
+
+}
+
+.content {
+	width: 1200px;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 0 0.5em;
+}
+
+.content.home {
+	margin-top: 80px;
+}
+
+.content.passthrough {
+	pointer-events: none;
+}
+
+.content a {
+	color: #888;
+}
+
+.content h2 {
+	color: #628e00;
+}
+
+.column {
+	display: inline-block;
+	vertical-align: top;
+	width: 49%;
+	padding: 0 3%;
+	overflow: auto;
+}
+
+.column .text {
+	margin: 20px;
+	padding: 1px 20px;
+	background: rgba(255,255,255,0.9);
+	box-shadow: 0 0 10px 10px rgba(255,255,255,0.9);
+	font-size: 1.2em;
+}
+
+@media (max-width: 950px) {
+
+.background {
+	display: none;
+}
+
+.logo {
+	display: block;
+	margin: 0 auto;
+}
+
+.content.home {
+	margin-top: 0.5em;
+}
+
+.column {
+	display: block;
+	width: auto;
+}
+
+.column .text {
+	background: none;
+	box-shadow: none;
+}
+
+}
+
+.content.passthrough .column {
+	pointer-events: auto;
+}
+
+.timetable {
+	margin: 0 20px;
+	border: 2px solid #628e00;
+	border-radius: 5px;
+	overflow: hidden;
+	background: #fff;
+}
+
+.timetable h2 {
+	background: #628e00;
+	color: #fff;
+	text-align: center;
+	margin: 0;
+	padding: 0.3em;
+}
+
+.timetable table {
+	border-collapse: collapse;
+	width: 86%;
+	margin: 5px auto;
+	color: #666;
+	font-size: 1.2em;
+}
+
+.timetable td, th {
+	padding: 0.5em 1em;
+}
+
+.timetable td {
+	border-bottom: 2px solid #eee;
+}
+
+.timetable th {
+	border-bottom: 2px solid #666;
+	text-align: left;
+	color: #333;
+}
+
+.timetable tr:last-child td {
+	border: none;
+}
+
+.main {
+	padding-bottom: 280px; /* height of the footer */
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	background: url(../img/nuagefooter.svg) no-repeat;
+	background-size: 2000px;
+	background-position: center 40px;
+	width: 100%;
+}
+
+.footer-content {
+	width: 1200px;
+	max-width: 100%;
+	margin: 0 auto;
+	min-height: 280px;
+	padding-top: 150px;
+	text-align: center;
+	color: #888;
+}
+
+.gallery {
+	text-align: center;
+
+	.gallery-item {
+		display: inline-block;
+		vertical-align: top;
+		width: 370px;
+		max-width: 100%;
+		margin: 10px;
+
+		img {
+			width: 100%;
+			box-shadow: 0 0 3px 1px rgba(0,0,0,0.5);
+		}
+	}
+}
