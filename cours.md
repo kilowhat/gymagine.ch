@@ -60,16 +60,13 @@ Organisé par Mano Dobler
 - Tel. 032/422.44.33
 - Email: <studiomove@outlook.com>
 
-## Danse orientale<small>, stage découverte (dimanche 17 janvier 2016)</small>
+## Danse orientale<small>, 90min</small>
 
-Stage organisé dans le but de faire découvrir la danse orientale aux adultes de tous âges ainsi qu'aux plus jeunes et dans l'idée d'ouvrir un cours régulier selon l'intérêt des participantes. Ce qui sera discuté directement le jour du stage.
+Cours de Danse Orientale pour adultes de tous âges (dès 16 ans).
+Le style Saidi est une danse folklorique venant d'Egypte.
+Etant à l'origine une danse de combat, elle a évolué jusqu'à atteindre la forme artistique que l'on connaît aujourd'hui.
 
-- Horaire: 13h-15h enfants - jeunes (jusqu'à 16 ans) / 15h30-17h30 adultes (tous âges)
-- Prix: 40.- /pers.
-- Professeur: Isabel Devaux
+- Horaire: deux dimanches par mois / Groupe 1 de 15h30 à 17h & Groupe 2 de 17h15 à 18h45
+- Professeure: Isabel Devaux
 - Organisatrice: Océane Garbiec
-
-<!-- space -->
-
-- Infos & inscription: <danseorientale.info@gmail.com> / 0788664322
-- Facebook: <https://www.facebook.com/events/1569813336572649/>
+- Informations & inscription : <danseorientale.info@gmail.com> / 0788664322
