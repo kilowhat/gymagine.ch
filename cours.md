@@ -60,13 +60,13 @@ Organisé par Mano Dobler
 - Tel. 032/422.44.33
 - Email: <studiomove@outlook.com>
 
-## Danse orientale<small>, 90min</small>
+## Danse Orientale<small>, 75min</small>
 
-Cours de Danse Orientale pour adultes de tous âges (dès 16 ans).
-Le style Saidi est une danse folklorique venant d'Egypte.
-Etant à l'origine une danse de combat, elle a évolué jusqu'à atteindre la forme artistique que l'on connaît aujourd'hui.
+Cours de Danse orientale pour adultes tous niveaux.
+Venez découvrir et explorer divers styles de danses orientales dans une ambiance décontractée !
+Tous les lundis de 19h à 20h15. Premier cours gratuit et sans engagement.
 
-- Horaire: deux dimanches par mois / Groupe 1 de 15h30 à 17h & Groupe 2 de 17h15 à 18h45
-- Professeure: Isabel Devaux
-- Organisatrice: Océane Garbiec
-- Informations & inscription : <danseorientale.info@gmail.com> / 0788664322
+Organisé par Océane Garbiec
+
+- Tel. : 078/866.43.22
+- Email : <danseorientale.info@gmail.com>
