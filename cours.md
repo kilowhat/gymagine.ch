@@ -70,3 +70,21 @@ Organisé par Océane Garbiec
 
 - Tel. : 078/866.43.22
 - Email : <danseorientale.info@gmail.com>
+
+## QI-GONG<small>, 60 min</small>
+
+Mercredi 19h-20h.
+Organisé par Jérôme Gassmann:
+
+- 079 819 90 72
+- 032 466 39 32
+
+## Ateliers enfants<small>, 90 min</small>
+
+Vendredi 17h-18h30.
+Organisé par Micheline Rais et Jessica Ferraro:
+
+- Micheline 079 397 49 98
+- Jessica 079 948 50 05
+
+Toutes les infos sur les ateliers organisés : <http://soinadistance.ch/>
