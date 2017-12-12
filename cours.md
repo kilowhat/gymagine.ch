@@ -60,17 +60,6 @@ Organisé par Mano Dobler
 - Tel. 032/422.44.33
 - Email: <studiomove@outlook.com>
 
-## Danse Orientale<small>, 75min</small>
-
-Cours de Danse orientale pour adultes tous niveaux.
-Venez découvrir et explorer divers styles de danses orientales dans une ambiance décontractée !
-Tous les lundis de 19h à 20h15. Premier cours gratuit et sans engagement.
-
-Organisé par Océane Garbiec
-
-- Tel. : 078/866.43.22
-- Email : <danseorientale.info@gmail.com>
-
 ## QI-GONG<small>, 60 min</small>
 
 Mercredi 19h-20h.
