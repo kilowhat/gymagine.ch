@@ -40,7 +40,7 @@ Jeudi à 9h15
 
 Organisé par Marcel Gête, Dipl. Yoga Suisse/EU
 
-- Tel. 032/422.31.92
+- Tel. [032 422 31 92](tel:+41324223192)
 - Email: <marcel.gete@bluewin.ch>
 
 ## Danse populaire<small>, 90 min</small>
@@ -49,7 +49,7 @@ Jeudi de 17h30 à 19h00
 
 Organisé par Paulette Voirol
 
-- Tel. 032/422.22.51
+- Tel. [032 422 22 51](tel:+41324222251)
 
 ## Danse "Studio Move"<small>, 60 min</small>
 
@@ -57,7 +57,7 @@ Cours de danse tous styles pour adultes (dès 18 ans) le mardi soir 18h00-19h00 
 
 Organisé par Mano Dobler
 
-- Tel. 032/422.44.33
+- Tel. [032 422 44 33](tel:+41324224433)
 - Email: <studiomove@outlook.com>
 
 ## QI-GONG<small>, 60 min</small>
@@ -65,15 +65,15 @@ Organisé par Mano Dobler
 Mercredi 19h-20h.
 Organisé par Jérôme Gassmann:
 
-- 079 819 90 72
-- 032 466 39 32
+- [079 819 90 72](tel:+41798199072)
+- [032 466 39 32](tel:+41324663932)
 
 ## Ateliers enfants<small>, 90 min</small>
 
 Vendredi 17h-18h30.
 Organisé par Micheline Rais et Jessica Ferraro:
 
-- Micheline 079 397 49 98
-- Jessica 079 948 50 05
+- Micheline [079 397 49 98](tel:+41793974998)
+- Jessica [079 948 50 05](tel:+41799485005)
 
 Toutes les infos sur les ateliers organisés : <http://soinadistance.ch/>
