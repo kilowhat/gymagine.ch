@@ -60,6 +60,19 @@ Organisé par Mano Dobler
 - Tel. [032 422 44 33](tel:+41324224433)
 - Email: <studiomove@outlook.com>
 
+## Danse Orientale<small>, 90 min</small>
+
+Lundi de 19h à 20h30
+
+- Cours hebdomadaire de danse orientale pour adultes (dès 16 ans) débutantes.
+- Premier cours d'essai gratuit.
+- Inscription semestrielle, carte 10 cours ou cours à l'unité.
+
+Organisé par "océa Danse orientale", Océane Garbiec
+
+- [078 866 43 22](tel:+41788664322)
+- <ocea.danseorientale@gmail.com>
+
 ## QI-GONG<small>, 60 min</small>
 
 Mercredi 19h-20h.
