@@ -55,11 +55,13 @@ Organisé par Paulette Voirol
 
 Lundi de 19h à 20h30
 
-- Cours hebdomadaire de danse orientale pour adultes (dès 16 ans) débutantes.
+- Cours hebdomadaire de danse orientale pour adultes (dès 16 ans) débutants.
 - Premier cours d'essai gratuit.
 - Inscription semestrielle, carte 10 cours ou cours à l'unité.
 
-Organisé par "océa Danse orientale", Océane Garbiec
+Cours enfants et ados dès septembre 2019 !
 
-- [078 866 43 22](tel:+41788664322)
-- <ocea.danseorientale@gmail.com>
+Organisé par "OC’Danse", Océane Garbiec
+
+- [077 527 33 95](tel:+41775273395)
+- <ocdanse@gmail.com>
