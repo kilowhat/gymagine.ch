@@ -56,7 +56,6 @@ Organisé par Paulette Voirol
 Lundi de 19h à 20h30
 
 - Cours hebdomadaire de danse orientale pour adultes (dès 16 ans) débutants.
-- Premier cours d'essai gratuit.
 - Inscription semestrielle, carte 10 cours ou cours à l'unité.
 
 Cours enfants et ados dès septembre 2019 !
