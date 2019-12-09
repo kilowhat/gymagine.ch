@@ -64,3 +64,26 @@ Organisé par "OC’Danse", Océane Garbiec
 
 - [077 527 33 95](tel:+41775273395)
 - <ocdanse@gmail.com>
+
+## Hip-Hop
+
+- Mardi 17h00 - 18h00 Hip-Hop écoliers primaire
+- Mardi 19h00 - 20h00 Hip-Hop écoliers secondaire
+- Mardi 20h00 - 21h00 Renforcement en douceur
+
+<!-- -->
+
+- Jeudi 19h00 - 20h00 Hip-Hop Apprenants
+- Jeudi 20h00 - 21h00 Hip-Hop Adultes
+
+<!-- -->
+
+- Samedi 10h00 - 11h00 Hip-Hop Avancé
+
+2 Lock Hip-Hop Dance School
+
+Sarah Maître
+
+- [032 426 41 92](tel:+41324264192)
+- [078 672 47 23](tel:+41786724723)
+- <sarah@2lock.ch>
