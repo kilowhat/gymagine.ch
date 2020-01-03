@@ -65,7 +65,7 @@ Organisé par "OC’Danse", Océane Garbiec
 - [077 527 33 95](tel:+41775273395)
 - <ocdanse@gmail.com>
 
-## Hip-Hop
+## Hip-Hop / Renforcement en douceur<small>, 60 min</small>
 
 - Mardi 17h00 - 18h00 Hip-Hop écoliers primaire
 - Mardi 19h00 - 20h00 Hip-Hop écoliers secondaire
