@@ -10,18 +10,6 @@ permalink: cours
 
 Cours sans inscription le lundi matin à 9h15.
 
-## Gym'santé<small>, 60 min (sans musique)</small>
-
-Cours pour tous sans limite d'âge. Pour votre bien-être, pratiquez une gym douce et efficace.
-
-Travail en profondeur de la plante des pieds jusqu'au crâne.
-
-Des soucis d'équilibre, de dos, des raideurs, du mal-être ? Votre corps ne vous obéit plus ? Ce cours est pour vous !
-
-Vous cherchez simplement à être en FORME, bien dans votre corps ? Ce cours est également pour vous !
-
-Cours sans inscription, le mardi matin à 9h15.
-
 # Tarifs
 
 Une carte de 8 séances pour 100.-

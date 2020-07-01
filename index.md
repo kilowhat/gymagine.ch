@@ -10,8 +10,6 @@ background_image: /img/background.jpg
 			<table>
 				<tr><th>lundi</th><th></th></tr>
 				<tr><td>9h15 - 10h15</td><td>Gym'atinale</td></tr>
-				<tr><th>mardi</th><th></th></tr>
-				<tr><td>9h15 - 10h15</td><td>Gym'santé</td></tr>
 			</table>
 		</div>
 	</div>
