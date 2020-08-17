@@ -39,20 +39,6 @@ Organisé par Paulette Voirol
 
 - Tel. [032 422 22 51](tel:+41324222251)
 
-## Danse Orientale<small>, 90 min</small>
-
-Lundi de 19h à 20h30
-
-- Cours hebdomadaire de danse orientale pour adultes (dès 16 ans) débutants.
-- Inscription semestrielle, carte 10 cours ou cours à l'unité.
-
-Cours enfants et ados dès septembre 2019 !
-
-Organisé par "OC’Danse", Océane Garbiec
-
-- [077 527 33 95](tel:+41775273395)
-- <ocdanse@gmail.com>
-
 ## Hip-Hop / Renforcement en douceur<small>, 60 min</small>
 
 - Mardi 17h00 - 18h00 Hip-Hop écoliers primaire
