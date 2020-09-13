@@ -41,8 +41,9 @@ Organisé par Paulette Voirol
 
 ## Hip-Hop / Renforcement en douceur<small>, 60 min</small>
 
-- Mardi 17h00 - 18h00 Hip-Hop écoliers primaire
-- Mardi 19h00 - 20h00 Hip-Hop écoliers secondaire
+- Mardi 17h00 - 18h00 Hip-Hop 7-8 ans
+- Mardi 18h00 - 19h00 Hip-Hop 9-10 ans
+- Mardi 19h00 - 20h00 Hip-Hop 11 - 15 ans
 - Mardi 20h00 - 21h00 Renforcement en douceur
 
 <!-- -->
