@@ -62,3 +62,12 @@ Sarah Maître
 - [032 426 41 92](tel:+41324264192)
 - [078 672 47 23](tel:+41786724723)
 - <sarah@2lock.ch>
+
+## Yoga<small>, 60 min</small>
+
+Lundi 18h15
+
+Organisé par Claude Cattin
+
+- Tel: [079 692 52 35](tel:+41796925235)
+- Email: <claude.cattin@bluewin.ch>
