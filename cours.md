@@ -24,7 +24,7 @@ Pour tout renseignement ou inscription, veuillez vous adresser directement à l'
 
 ## Yoga<small>, 60 min</small>
 
-Jeudi à 9h15
+Mercredi à 9h15
 
 Organisé par Marcel Gête, Dipl. Yoga Suisse/EU
 
