@@ -10,7 +10,7 @@ permalink: cours
 
 Cours sans inscription le lundi matin à 9h15.
 
-# Tarifs
+### Tarifs
 
 Une carte de 8 séances pour 100.-
 
@@ -28,8 +28,7 @@ Mercredi à 9h15
 
 Organisé par Marcel Gête, Dipl. Yoga Suisse/EU
 
-- Tel. [032 422 31 92](tel:+41324223192)
-- Email: <marcel.gete@bluewin.ch>
+Contact: [032 422 31 92](tel:+41324223192) / <marcel.gete@bluewin.ch>
 
 ## Danse populaire<small>, 90 min</small>
 
@@ -37,7 +36,7 @@ Jeudi de 17h30 à 19h00
 
 Organisé par Paulette Voirol
 
-- Tel. [032 422 22 51](tel:+41324222251)
+Contact: [032 422 22 51](tel:+41324222251)
 
 ## Hip-Hop / Renforcement en douceur<small>, 60 min</small>
 
@@ -59,9 +58,7 @@ Organisé par Paulette Voirol
 
 Sarah Maître
 
-- [032 426 41 92](tel:+41324264192)
-- [078 672 47 23](tel:+41786724723)
-- <sarah@2lock.ch>
+Contact: [032 426 41 92](tel:+41324264192) / [078 672 47 23](tel:+41786724723) / <sarah@2lock.ch>
 
 ## Yoga<small>, 60 min</small>
 
@@ -69,5 +66,16 @@ Lundi 18h15
 
 Organisé par Claude Cattin
 
-- Tel: [079 692 52 35](tel:+41796925235)
-- Email: <claude.cattin@bluewin.ch>
+Contact: [079 692 52 35](tel:+41796925235) / <claude.cattin@bluewin.ch>
+
+## Respirer, bouger, se ressourcer<small>, 60 min</small>
+
+Pour les personnes touchées par une maladie cancéreuse
+
+Vendredi à 14h15
+
+Organisé par ANITA JORAY
+
+Contact: [078 859 68 95](tel:+41788596895) / <cours@anitajoray.com>
+
+8.- la séance
