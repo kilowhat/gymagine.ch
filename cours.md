@@ -56,7 +56,7 @@ Contact: [032 422 22 51](tel:+41324222251)
 
 2 Lock Hip-Hop Dance School
 
-Sarah Maître
+Organisé par Sarah Maître
 
 Contact: [032 426 41 92](tel:+41324264192) / [078 672 47 23](tel:+41786724723) / <sarah@2lock.ch>
 
@@ -79,3 +79,19 @@ Organisé par ANITA JORAY
 Contact: [078 859 68 95](tel:+41788596895) / <cours@anitajoray.com>
 
 8.- la séance
+
+## Danses<small>, 60 min</small>
+
+LUNDI :<br>
+19h00 à 20h00: Lady Style intermédiaires<br>
+20h00 à 21h00 : Bachata intermédiaires duo (avec ou sans partenaire)
+
+MERCREDI :<br>
+18h00 à 19h00 : Lady Style débutantes<br>
+19h00 à 20h00 : Bachata débutants duo (avec ou sans partenaire)
+
+20h00 à 22h00 : répétition AngieCompagnie
+
+Organisé par Angela Queloz
+
+Contact: [078 631 84 09](tel:+41786318409) / <angela-queloz@bluewin.ch>
