@@ -18,6 +18,18 @@ Valable 6 mois dès la première utilisation.
 
 Rabais de 10% pour étudiants, apprentis, AVS & AI. Cours à la séance 15.- (Étudiants. apprentis, AVS & AI: Fr. 13.-).
 
+## Gym santé pour seniors<small>, 60 min (sans musique)</small>
+
+Pour votre bien-être, pratiquez une gym douce et efficace.
+
+Travail en profondeur de la plante des pieds jusqu'au crâne.
+
+Des soucis d'équilibre, de dos, des raideurs, du mal-être ? Votre corps ne vous obéit plus ? Ce cours est pour vous !
+
+Vous cherchez simplement à être en FORME, bien dans votre corps ? Ce cours est également pour vous !
+
+Cours sur inscription ([032 426 66 29](tel:+41324266629) / <info@espace2000.ch>), le mardi matin à 9h45.
+
 # Autres cours disponibles dans la salle
 
 Pour tout renseignement ou inscription, veuillez vous adresser directement à l'organisateur.
