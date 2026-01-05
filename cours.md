@@ -87,7 +87,7 @@ Contact: [078 859 68 95](tel:+41788596895) / <cours@anitajoray.com>
 ## Danses<small>, 60 min</small>
 
 LUNDI :<br>
-19h00 à 20h00: Lady Style intermédiaires<br>
+19h00 à 20h00 : Ladystyling<br>
 20h00 à 21h00 : Bachata intermédiaires duo (avec ou sans partenaire)
 
 MERCREDI :<br>
@@ -95,6 +95,6 @@ MERCREDI :<br>
 
 19h00 à 22h00 : répétition AngieCompagnie
 
-Organisé par Angela Queloz
+Organisé par Angela Faggella
 
 Contact: [078 631 84 09](tel:+41786318409) / <angela-queloz@bluewin.ch>
