@@ -91,10 +91,9 @@ LUNDI :<br>
 20h00 à 21h00 : Bachata intermédiaires duo (avec ou sans partenaire)
 
 MERCREDI :<br>
-18h00 à 19h00 : Lady Style débutantes<br>
-19h00 à 20h00 : Bachata débutants duo (avec ou sans partenaire)
+18h00 à 19h00 : Bachata débutants duo (avec ou sans partenaire)
 
-20h00 à 22h00 : répétition AngieCompagnie
+19h00 à 22h00 : répétition AngieCompagnie
 
 Organisé par Angela Queloz
 
