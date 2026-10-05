@@ -87,7 +87,7 @@ Contact: [078 859 68 95](tel:+41788596895) / <cours@anitajoray.com>
 ## Danses<small>, 60 min</small>
 
 LUNDI :<br>
-19h00 à 20h00 : Ladystyling<br>
+19h00 à 20h00 : Expression au Féminin<br>
 20h00 à 21h00 : Bachata intermédiaires duo (avec ou sans partenaire)
 
 MERCREDI :<br>
