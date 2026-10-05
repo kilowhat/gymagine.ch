@@ -98,3 +98,16 @@ MERCREDI :<br>
 Organisé par Angela Faggella
 
 Contact: [078 631 84 09](tel:+41786318409) / <angela-queloz@bluewin.ch>
+
+## Ateliers enfants
+
+Mercredis 4, 11, 18 et 25 novembre de 14h à 15h15
+
+[Lire le flyer:](/img/202611-ateliers-enfants/Flyer.jpg)<br>
+[![Flyer](/img/202611-ateliers-enfants/Flyer-miniature.jpg)](/img/202611-ateliers-enfants/Flyer.jpg)
+
+[Inscriptions sur le site de l'organisateur](https://docs.google.com/forms/d/e/1FAIpQLSfupPtqSjSrx_sLv9wt7lL7czNZB5GDBXgP5ereSBoAAA3qaQ/viewform?usp=header)
+
+Organisé par Marion Bürki
+
+Contact [078 935 31 90](tel:+410789353190) / <marion.burki97@gmail.com>
